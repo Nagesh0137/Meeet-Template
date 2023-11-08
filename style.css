@@ -74,7 +74,7 @@ button{
 @media (max-width:666px) {
    .pinfo{
     position:static;
-    margin-top: 100px;
+    margin-top: 150px;
     text-align: center;
    }
    .text{
@@ -87,6 +87,9 @@ button{
     margin-top: 70px;
     margin-left: -120px;
    }
+    .img2{
+        width:30%;
+    }
    .img-fluid{
     width:25%;
    }
